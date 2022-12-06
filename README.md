@@ -1,6 +1,6 @@
 # Online-Banking-Application
 A simple online banking application using javafx and MySQL
-##The Application consists of:
+## The Application consists of:
 - Login page
 - Signup page
 - Home page (Gives an overview of user account)
