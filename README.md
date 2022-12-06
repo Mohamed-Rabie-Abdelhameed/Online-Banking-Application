@@ -8,7 +8,7 @@ A simple online banking application using javafx and MySQL
 - Withdraw page (Allows the user to enter the amount to be withdrawed from his account)
 - Transfer page (Allows the user to enter the amount to be transferred and the reciever's account number)
 
-![login image](screenshots/login page.png)
+![login image](/screenshots/login page.png)
 ![signup image](screenshots/signup page.png)
 ![home image](screenshots/home page.png)
 ![deposit image](screenshots/deposit page.png)
