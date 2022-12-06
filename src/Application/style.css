@@ -1,0 +1,6 @@
+.backgroundColor{
+    -fx-background-color: linear-gradient(to right bottom,#F9484A, #FBD72B);
+}
+.textfield{
+    -fx-prompt-text-fill: black;
+}
